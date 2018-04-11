@@ -5,7 +5,7 @@
 Pliki:
 
 ``sudo git clone https://github.com/hupspl/LCD35.git`` <br>
-``sudo chmod -R 755 LCD35-show`` <br>
+``sudo chmod -R 755 LCD35`` <br>
 `` cd LCD-show `` <br>
 
 przypadku 3,5-calowego wyświetlacza RPI (MPI3501) w <br>
